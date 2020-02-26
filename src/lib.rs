@@ -18,6 +18,7 @@ pub use filecoin_proofs_v1::types::{
     UnpaddedByteIndex, UnpaddedBytesAmount,
 };
 pub use filecoin_proofs_v1::SnarkProof;
+pub use filecoin_proofs_v1;
 
 use std::path::Path;
 
